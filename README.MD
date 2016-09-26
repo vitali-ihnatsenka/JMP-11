@@ -1,0 +1,1 @@
+Create web app using Spring MVC - Account management. Create account, view account status, put -get money to account.
